@@ -78,7 +78,7 @@ This project is about creating a library with useful functions for future projec
 ## Exemple
 
 ```bash
-$> cc -Wall -Wextra -Werror -I libft.h -L libft.a main.c
+cc -Wall -Wextra -Werror -I libft.h -L libft.a main.c
 ```
 
 ```c
