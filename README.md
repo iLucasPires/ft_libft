@@ -91,10 +91,3 @@ int main(void)
     return (0);
 }
 ```
-
-## To do
-
-- [ ] add more functions
-- [ ] add tests
-- [ ] add documentation in header file
-
